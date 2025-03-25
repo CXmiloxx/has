@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+@theme {
+  --color-primary: #144b95;
+  --color-secondary: #1ab5ac;
+  --color-secondary-hover: #1196a6;
+  --color-bg: #f9fafb; 
+  --color-text: #1f2937;
+  --color-bg: #101828;
+  --color-text: #e5e7eb;
+
+}
+
+body {
+  @apply dark:bg-[var(--color-bg)]  font-sans transition-colors duration-300;
+}
