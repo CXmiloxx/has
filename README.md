@@ -1,4 +1,4 @@
-# 📌 Proyecto React con Vite y pnpm
+# 📌 Has
 
 ## 🚀 Instalación y Configuración
 
