@@ -4,8 +4,8 @@
 
 ### 1️⃣ **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/CXmiloxx/has.git
+cd has
 ```
 
 ### 2️⃣ **Instalar dependencias con pnpm**
